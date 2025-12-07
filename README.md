@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate software developer focused on building efficient and scalable solutions. Currently studying at **42 School** and continuously expanding my skills through practical projects and challenges.
+I'm a passionate student focused on cybersecurity and software development. Currently studying at **42 School**, I continuously expand my skills through practical projects and security challenges.
 
 - 🎓 **42 School** Student - `login: olardeux`
 - 🛡️ **Root-Me** Member - Focusing on security and system challenges
