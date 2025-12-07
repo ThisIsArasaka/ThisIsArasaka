@@ -46,18 +46,6 @@ I'm a passionate software developer focused on building efficient and scalable s
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThisIsArasaka&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThisIsArasaka&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
@@ -69,8 +57,6 @@ I'm a passionate software developer focused on building efficient and scalable s
 ---
 
 <div align="center">
-  
-### ⚡ "Code is like humor. When you have to explain it, it's bad." - Cory House
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ThisIsArasaka&color=blueviolet&style=for-the-badge)
 
